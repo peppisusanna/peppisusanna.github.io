@@ -1,16 +1,16 @@
 body {
-    background-color: #ffffff;
+    background-color: hsl(0, 0%, 0%);
   }
   
   h1 {
-    color: #000000;
+    color: #ffffff;
     margin-left: 20px;
   }
   p {
     font-size: 12px;
     color: green;
   }
-  div p {
+  div.p {
     background-color: rgb(114, 170, 136);
   }
   ul.a {
