@@ -1,1 +1,28 @@
-
+body {
+    background-color: hsl(0, 0%, 0%);
+  }
+  
+  h1 {
+    color: #ffffff;
+    margin-left: 20px;
+  }
+  p {
+    font-size: 12px;
+    color: green;
+  }
+  div.p {
+    background-color: rgb(114, 170, 136);
+  }
+  ul.a {
+    list-style-type: square;
+  }
+  
+  ol.b {
+    list-style-type: lower-alpha;
+  }
+  .hep {
+    border: 2px;
+  }
+  .jee {
+  border-style: dotted;
+}
